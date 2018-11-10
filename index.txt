@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>�e�X�gWebsite</title>
+    </head>
+    <body>
+        �ق��ق�
+    </body>
+</html>
