@@ -1,7 +1,7 @@
-strong {
-    color: #ff0000;
+.strong {
+    cor: #ff0000;
     }
 
 p {
-    font-weight: bold
+    color: #ff0000;
   }
